@@ -1,5 +1,5 @@
+<img width="860" height="860" alt="image" src="https://github.com/user-attachments/assets/151ba357-61cd-4c75-a7f8-dbf3fe60e07f" />
 # Aprendiendo Python desde cero
-<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/1792ec0f-22de-4391-aa31-525315e2b083" />
 
 
 Repositorio personal donde voy guardando mis apuntes, ejercicios y prácticas mientras aprendo Python desde cero.
