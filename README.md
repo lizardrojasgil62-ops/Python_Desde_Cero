@@ -1,4 +1,5 @@
 # Aprendiendo Python desde cero
+<img width="500" height="148" alt="image" src="https://github.com/user-attachments/assets/884fb898-03f9-4ac1-873b-35d403e01238" />
 
 Repositorio personal donde voy guardando mis apuntes, ejercicios y prácticas mientras aprendo Python desde cero.
 
@@ -33,28 +34,3 @@ Aprender Python desde las bases, entender cómo funciona el lenguaje y conseguir
 Este repositorio se irá actualizando conforme avance en mi aprendizaje.
 
 > En construcción — aprendiendo Python paso a paso.
-
-Ejemplo:
-
-"string" # texto o cadena de caracteres para solo una línea de texto
-'string' # texto o cadena de caracteres para solo una línea de texto
-# Example:
-#     "hola mundo"
-
-"""string""" # texto o cadena de caracteres para varias líneas de texto
-'''string''' # texto o cadena de caracteres para varias líneas de texto
-# Example:
-'''tus datos son:
-    nombre: Juan
-    edad: 30
-    email: juan@example.com'''
-    
-    
-int # número entero, sin decimales
-# Example: 40
-
-float # número decimal, con decimales
-# Example: 3.14
-
-bool # valor booleano, verdadero o falso
-# Example: True, False
